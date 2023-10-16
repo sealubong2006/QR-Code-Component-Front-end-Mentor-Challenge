@@ -52,7 +52,7 @@ p{
     color: hsl(212, 45%, 79%);
 }
 
-@media (max-width:680px){
+@media (max-width:375px){
         .flex-main{
         display: flex;
         justify-content: center;
